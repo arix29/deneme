@@ -1,0 +1,61 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="ZfRQcsC=!r[;ypw=r+zY" x="246" y="-53"><statement name="HANDLER"><block type="device_show_leds" id="q:v|9/a44g[p,v-mNUiX"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="0PF.M^@{8q02t~.I;e6c"><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="zivCt_vG1@NoYZ4[S3Iu"><field name="LEDS">`
+        . # . # . 
+        # # . # # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="b@j8~`~YHqCYUVvx%2o="><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="_tfkBA%y@Tmrb{{QGhg3"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # . . . # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="Ylp{x3C|u$bf=|Bio!W."><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # . # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="7~CTh;wpYHGT=oKbdF.`"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="c`0i;%C#u*Z@.}iVnT{f"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="r2ERz-LNj-eR@bDIt5Yo"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="4l2VvP2+u|3=Y+U0a11g"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="IXmIvb5U(/pl?f|*.u)G" x="0" y="0"></block></xml>
